@@ -1,0 +1,22 @@
+{
+    "Dentistas": [
+        {"nome": "Priscila", "id": 1,"matriculaId": 1,  "consultorio": 1},
+        {"nome": "Juliana", "id": 2, "matriculaId": 2, "consultorio": 2},
+        {"nome": "Paula", "id": 3, "matriculaId": 3, "consultorio": 3},
+        {"nome": "Pedro", "id": 4, "matriculaId": 4, "consultorio": 4}
+    ],
+   
+    "clientes":[
+        {"nome": "Jenifer", "id": 100, "cpf": "111.111.111-11", "telefone": "99999-9999"},
+        {"nome": "Julia", "id": 101, "cpf": "111.111.111-22", "telefone": "99999-9988"},
+        {"nome": "João", "id": 102, "cpf": "111.111.111-33", "telefone": "99999-9977"},
+        {"nome": "Jonathan", "id": 103, "cpf": "111.111.111-44", "telefone": "99999-9966"}
+    ],
+
+    "servicos": [
+        {"nome": "Consulta", "id":1010,  "preçoMin": 60},
+        {"nome": "Limpeza", "id":2020, "preçoMin": 100},
+        {"nome": "Branqueamento", "id":3030, "preçoMin": 600},
+        {"nome": "Restauração", "id":4040,  "preçoMin": 80}
+    ]
+}
